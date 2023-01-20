@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TWO_SUM/1.0.0": {
+        "runtime": {
+          "TWO_SUM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TWO_SUM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
